@@ -13,7 +13,7 @@ With a background in web development and UI/UX design, I bring an engineering pe
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -23,11 +23,11 @@ With a background in web development and UI/UX design, I bring an engineering pe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
-### Backend  
+### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -37,11 +37,6 @@ With a background in web development and UI/UX design, I bring an engineering pe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  

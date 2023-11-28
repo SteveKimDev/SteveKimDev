@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/stevekim/image/upload/v1658258964/github-banner_ekadqw.jpg" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/stevekim/image/upload/v1701190895/linkedin-banner-v2_hlwmv4.jpg" align="center" style="width: 100%" />
 </div>  
   
 # 💫 About Me:
